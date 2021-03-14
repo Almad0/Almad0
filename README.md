@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Almad0/Almad0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub page 🌱
 
-Here are some ideas to get you started:
+## I'm *Alessandro*, Jr. Full Stack Web Developer 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------
+
+### Contacts:
+
+#### <img width="18" src="https://i.stack.imgur.com/gVE0j.png"> - [aleinternicola](https://www.linkedin.com/in/aleinternicola/)
+####  <img width="18" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"> - alessandro.internicola@gmail.com
+
+***
