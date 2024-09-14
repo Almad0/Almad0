@@ -1,7 +1,7 @@
 
 ## Welcome to my GitHub page 🌱
 
-## I'm *Alessandro*, Jr. Full Stack Web Developer 👋
+## I'm *Alessandro*, Full Stack software Developer 👋
 
 ----------
 
